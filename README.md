@@ -128,4 +128,5 @@ streamlit run streamlit_app.py
 
 L'interface sera disponible à l'adresse `http://localhost:8501`
  
+ 👨‍💻  Projet créé par Chaker Beltaief 
 
