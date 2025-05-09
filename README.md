@@ -128,9 +128,4 @@ streamlit run streamlit_app.py
 
 L'interface sera disponible à l'adresse `http://localhost:8501`
  
-# cv_analyzer
-# cv_analyzer
-# cv_analyzer
-# cv_analyzer
-# analyse-et-classifier-de-cv
-# analyse-classifier-cv
+
